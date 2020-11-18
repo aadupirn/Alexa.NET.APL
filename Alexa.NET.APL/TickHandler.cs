@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response.APL
+namespace VoicifyAlexa.NET.Response.APL
 {
     public class TickHandler
     {

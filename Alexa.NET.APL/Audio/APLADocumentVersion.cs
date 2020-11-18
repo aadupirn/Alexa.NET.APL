@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace Alexa.NET.APL.Audio
+namespace VoicifyAlexa.NET.APL.Audio
 {
     public enum APLADocumentVersion
     {

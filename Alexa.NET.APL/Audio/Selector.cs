@@ -1,7 +1,7 @@
-﻿using Alexa.NET.APL.JsonConverter;
+﻿using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Audio
+namespace VoicifyAlexa.NET.APL.Audio
 {
     public class Selector : APLAMultiChildComponent
     {

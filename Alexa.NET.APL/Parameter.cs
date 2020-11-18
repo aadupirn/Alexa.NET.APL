@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Response.APL
+namespace VoicifyAlexa.NET.Response.APL
 {
     public class Parameter
     {

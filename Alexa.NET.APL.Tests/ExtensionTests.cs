@@ -1,13 +1,13 @@
 ﻿using System.Linq;
-using Alexa.NET.APL.Extensions.Backstack;
-using Alexa.NET.APL.Extensions.EntitySensing;
-using Alexa.NET.APL.Extensions.SmartMotion;
-using Alexa.NET.Request;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.Extensions.Backstack;
+using VoicifyAlexa.NET.APL.Extensions.EntitySensing;
+using VoicifyAlexa.NET.APL.Extensions.SmartMotion;
+using VoicifyAlexa.NET.Request;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.APL.Tests
+namespace VoicifyAlexa.NET.APL.Tests
 {
     public class ExtensionTests
     {

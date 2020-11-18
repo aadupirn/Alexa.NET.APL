@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Alexa.NET.APL\Alexa.NET.APL.csproj" />
+    <ProjectReference Include="..\Alexa.NET.APL\VoicifyAlexa.NET.APL.csproj" />
   </ItemGroup>
 
   <ItemGroup>

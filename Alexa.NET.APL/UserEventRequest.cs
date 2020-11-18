@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL;
+using VoicifyAlexa.NET.APL;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class UserEventRequest: Request.Type.Request
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLValue
     {

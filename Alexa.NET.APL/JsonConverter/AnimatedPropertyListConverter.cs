@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL.Commands;
+using VoicifyAlexa.NET.APL.Commands;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class AnimatedPropertyListConverter : SingleOrListConverter<AnimatedProperty>
     {

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Response.APL
+namespace VoicifyAlexa.NET.Response.APL
 {
     public enum APLTFormat
     {

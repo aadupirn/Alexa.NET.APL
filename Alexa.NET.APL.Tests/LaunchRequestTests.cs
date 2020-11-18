@@ -1,10 +1,10 @@
 using System;
 using System.Linq;
-using Alexa.NET.Request;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.Request;
+using VoicifyAlexa.NET.Response.APL;
 using Xunit;
 
-namespace Alexa.NET.APL.Tests
+namespace VoicifyAlexa.NET.APL.Tests
 {
     public class LaunchRequestTests
     {

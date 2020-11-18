@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using Alexa.NET.APL.Gestures;
+using VoicifyAlexa.NET.APL.Gestures;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class APLGestureConverter : Newtonsoft.Json.JsonConverter<APLGesture>
     {

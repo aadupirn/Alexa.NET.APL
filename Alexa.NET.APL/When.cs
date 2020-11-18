@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public static class When
     {

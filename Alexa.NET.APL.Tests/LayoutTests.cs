@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Alexa.NET.APL.Components;
-using Alexa.NET.Response;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.Components;
+using VoicifyAlexa.NET.Response;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.APL.Tests
+namespace VoicifyAlexa.NET.APL.Tests
 {
     public class LayoutTests
     {

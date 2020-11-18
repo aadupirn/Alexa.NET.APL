@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.VectorGraphics
+namespace VoicifyAlexa.NET.APL.VectorGraphics
 {
     public class AVGText : IAVGItem
     {

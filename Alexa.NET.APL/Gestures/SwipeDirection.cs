@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.APL.Gestures
+namespace VoicifyAlexa.NET.APL.Gestures
 {
     public enum SwipeDirection
     {

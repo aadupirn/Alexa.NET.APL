@@ -2,9 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.JsonConverter;
 
-namespace Alexa.NET.APL.Commands
+namespace VoicifyAlexa.NET.APL.Commands
 {
     public class SpeakList : APLCommand
     {

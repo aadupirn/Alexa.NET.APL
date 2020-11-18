@@ -1,7 +1,7 @@
-﻿using Alexa.NET.APL.JsonConverter;
+﻿using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Commands
+namespace VoicifyAlexa.NET.APL.Commands
 {
     public class ScrollToIndex:APLCommand
     {

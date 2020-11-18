@@ -2,7 +2,7 @@
 using System.Text;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Components
+namespace VoicifyAlexa.NET.APL.Components
 {
     public class AlexaTextListItem: AlexaPaginatedListItem
     {

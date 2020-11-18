@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Operation
+namespace VoicifyAlexa.NET.APL.Operation
 {
     public class InsertItem : Operation
     {

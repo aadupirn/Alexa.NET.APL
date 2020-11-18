@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using Alexa.NET.APL.VectorGraphics;
+using VoicifyAlexa.NET.APL.VectorGraphics;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class AVGItemConverter : Newtonsoft.Json.JsonConverter
     {

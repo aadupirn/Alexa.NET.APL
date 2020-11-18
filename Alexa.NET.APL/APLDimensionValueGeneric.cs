@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLDimensionValue<T> : APLValue<T> where T : Dimension
     {

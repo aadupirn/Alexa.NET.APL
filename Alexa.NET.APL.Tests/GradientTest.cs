@@ -4,7 +4,7 @@ using System.Text;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.APL.Tests
+namespace VoicifyAlexa.NET.APL.Tests
 {
     public class GradientTest
     {

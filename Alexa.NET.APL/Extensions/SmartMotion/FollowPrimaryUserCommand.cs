@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.APL.Extensions.SmartMotion
+namespace VoicifyAlexa.NET.APL.Extensions.SmartMotion
 {
     public class FollowPrimaryUserCommand:APLCommand
     {

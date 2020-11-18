@@ -8,7 +8,7 @@ using System.Threading;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class APLValueEnumConverter<T> : APLValueConverter
     {

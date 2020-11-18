@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.APL.Extensions.Backstack
+namespace VoicifyAlexa.NET.APL.Extensions.Backstack
 {
     public class GoBackCommand:APLCommand
     {

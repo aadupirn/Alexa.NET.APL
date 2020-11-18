@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Versioning;
-using Alexa.NET.APL;
-using Alexa.NET.APL.Commands;
-using Alexa.NET.APL.JsonConverter;
-using Alexa.NET.APL.VectorGraphics;
+using VoicifyAlexa.NET.APL;
+using VoicifyAlexa.NET.APL.Commands;
+using VoicifyAlexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.VectorGraphics;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Response.APL
+namespace VoicifyAlexa.NET.Response.APL
 {
     public class APLDocument: APLDocumentBase
     {

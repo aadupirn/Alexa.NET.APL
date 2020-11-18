@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     internal static class JObjectExtensions
     {

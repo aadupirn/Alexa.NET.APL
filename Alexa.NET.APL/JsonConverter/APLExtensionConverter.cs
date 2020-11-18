@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Alexa.NET.APL.Extensions.Backstack;
-using Alexa.NET.APL.Extensions.EntitySensing;
-using Alexa.NET.APL.Extensions.SmartMotion;
+using VoicifyAlexa.NET.APL.Extensions.Backstack;
+using VoicifyAlexa.NET.APL.Extensions.EntitySensing;
+using VoicifyAlexa.NET.APL.Extensions.SmartMotion;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class APLExtensionConverter:JsonConverter<APLExtension>
     {

@@ -4,7 +4,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLTransformer
     {

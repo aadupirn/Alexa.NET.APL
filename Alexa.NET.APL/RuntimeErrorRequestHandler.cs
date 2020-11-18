@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using Alexa.NET.APL;
-using Alexa.NET.Request.Type;
+using VoicifyAlexa.NET.APL;
+using VoicifyAlexa.NET.Request.Type;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class RuntimeErrorRequestHandler : IRequestTypeConverter
     {

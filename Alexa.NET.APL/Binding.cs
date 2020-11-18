@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Response.APL
+namespace VoicifyAlexa.NET.Response.APL
 {
     public class Binding
     {

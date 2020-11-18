@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Alexa.NET.APL;
+using VoicifyAlexa.NET.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response.APL
+namespace VoicifyAlexa.NET.Response.APL
 {
     public abstract class APLComponentBase
     {

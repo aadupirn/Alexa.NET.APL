@@ -1,7 +1,7 @@
-﻿using Alexa.NET.APL;
+﻿using VoicifyAlexa.NET.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class RuntimeErrorRequest : Request.Type.Request
     {

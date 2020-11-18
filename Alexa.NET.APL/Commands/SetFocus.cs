@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Commands
+namespace VoicifyAlexa.NET.APL.Commands
 {
     public class SetFocus : APLCommand
     {

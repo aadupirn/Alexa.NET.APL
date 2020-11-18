@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.APL.Extensions.SmartMotion
+namespace VoicifyAlexa.NET.APL.Extensions.SmartMotion
 {
     public enum WakeWordResponse
     {

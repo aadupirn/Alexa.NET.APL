@@ -1,7 +1,7 @@
-﻿using Alexa.NET.APL.JsonConverter;
+﻿using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.VectorGraphics
+namespace VoicifyAlexa.NET.APL.VectorGraphics
 {
     [JsonConverter(typeof(AVGItemConverter))]
     public interface IAVGItem

@@ -1,9 +1,9 @@
 ﻿using System;
-using Alexa.NET.APL.Operation;
+using VoicifyAlexa.NET.APL.Operation;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class OperationConverter : Newtonsoft.Json.JsonConverter<Operation.Operation>
     {

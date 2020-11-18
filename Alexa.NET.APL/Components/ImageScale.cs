@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace Alexa.NET.APL.Components
+namespace VoicifyAlexa.NET.APL.Components
 {
     public enum Scale
     {

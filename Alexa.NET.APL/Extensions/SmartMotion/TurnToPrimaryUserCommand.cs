@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.APL.Extensions.SmartMotion
+﻿namespace VoicifyAlexa.NET.APL.Extensions.SmartMotion
 {
     public class TurnToPrimaryUserCommand : APLCommand
     {

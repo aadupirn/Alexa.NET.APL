@@ -1,19 +1,19 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Alexa.NET.APL.Commands;
-using Alexa.NET.APL.Components;
-using Alexa.NET.APL.DataSources;
-using Alexa.NET.APL.Filters;
-using Alexa.NET.APL.JsonConverter;
-using Alexa.NET.Response;
-using Alexa.NET.Response.APL;
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.APL.Commands;
+using VoicifyAlexa.NET.APL.Components;
+using VoicifyAlexa.NET.APL.DataSources;
+using VoicifyAlexa.NET.APL.Filters;
+using VoicifyAlexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.Response;
+using VoicifyAlexa.NET.Response.APL;
+using VoicifyAlexa.NET.Response.Directive;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.APL.Tests
+namespace VoicifyAlexa.NET.APL.Tests
 {
     public class ComponentTests
     {

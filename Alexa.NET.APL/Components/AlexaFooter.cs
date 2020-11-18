@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL.Components;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.Components;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Components
+namespace VoicifyAlexa.NET.APL.Components
 {
     public class AlexaFooter:APLComponent
     {

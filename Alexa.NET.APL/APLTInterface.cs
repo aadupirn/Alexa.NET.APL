@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public static class APLTInterface
     {

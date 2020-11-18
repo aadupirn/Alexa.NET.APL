@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL;
-using Alexa.NET.Response.APL;
-using Alexa.NET.Response.Converters;
+using VoicifyAlexa.NET.APL;
+using VoicifyAlexa.NET.Response.APL;
+using VoicifyAlexa.NET.Response.Converters;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class RenderDocumentDirective : IDirective
     {

@@ -2,12 +2,12 @@
 using System.Linq;
 using System.Reflection;
 using System.Runtime.Serialization;
-using Alexa.NET.APL.JsonConverter;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class APLInterfaceRuntime
     {

@@ -4,7 +4,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLGradient
     {

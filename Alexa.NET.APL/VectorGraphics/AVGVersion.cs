@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.APL.VectorGraphics
+namespace VoicifyAlexa.NET.APL.VectorGraphics
 {
     public enum AVGVersion
     {

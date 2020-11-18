@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Text;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.Response.APL;
 
-namespace Alexa.NET.APL.Audio
+namespace VoicifyAlexa.NET.APL.Audio
 {
     public class Mixer:APLAMultiChildComponent
     {

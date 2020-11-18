@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Commands
+namespace VoicifyAlexa.NET.APL.Commands
 {
     public class Sequential:APLCommand
     {

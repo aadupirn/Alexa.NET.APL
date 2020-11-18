@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL.Audio;
+using VoicifyAlexa.NET.APL.Audio;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLADocument:APLDocumentReference
     {

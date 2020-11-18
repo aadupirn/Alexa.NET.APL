@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.APL
+﻿namespace VoicifyAlexa.NET.APL
 {
     public class RelativeDimension:Dimension
     {

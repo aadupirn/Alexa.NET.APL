@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Response.APL;
+﻿using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Audio.Filters
+namespace VoicifyAlexa.NET.APL.Audio.Filters
 {
     public class FadeOut : APLAFilter
     {

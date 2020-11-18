@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL.JsonConverter;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.VectorGraphics
+namespace VoicifyAlexa.NET.APL.VectorGraphics
 {
     public class AVG
     {

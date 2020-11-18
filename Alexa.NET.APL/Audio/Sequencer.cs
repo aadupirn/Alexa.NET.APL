@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.APL.Audio
+﻿namespace VoicifyAlexa.NET.APL.Audio
 {
     public class Sequencer : APLAMultiChildComponent
     {

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
-using Alexa.NET.APL.Commands;
+using VoicifyAlexa.NET.APL.Commands;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class APLCommandConverter : Newtonsoft.Json.JsonConverter
     {

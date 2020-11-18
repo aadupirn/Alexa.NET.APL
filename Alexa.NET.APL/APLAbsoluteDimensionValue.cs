@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLAbsoluteDimensionValue : APLDimensionValue<AbsoluteDimension>
     {

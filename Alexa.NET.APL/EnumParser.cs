@@ -2,9 +2,9 @@
 using System.Linq;
 using System.Reflection;
 using System.Runtime.Serialization;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.Response.APL;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     internal static class EnumParser
     {

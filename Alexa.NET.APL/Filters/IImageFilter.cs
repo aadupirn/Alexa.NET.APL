@@ -1,8 +1,8 @@
 ﻿using System.Security.Cryptography.X509Certificates;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Filters
+namespace VoicifyAlexa.NET.APL.Filters
 {
     [JsonConverter(typeof(ImageFilterConverter))]
     public interface IImageFilter

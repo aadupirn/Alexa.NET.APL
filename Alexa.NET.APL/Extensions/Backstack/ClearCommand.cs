@@ -1,5 +1,5 @@
 ﻿
-namespace Alexa.NET.APL.Extensions.Backstack
+namespace VoicifyAlexa.NET.APL.Extensions.Backstack
 {
     public class ClearCommand : APLCommand
     {

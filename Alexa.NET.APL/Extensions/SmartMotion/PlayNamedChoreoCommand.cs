@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Extensions.SmartMotion
+namespace VoicifyAlexa.NET.APL.Extensions.SmartMotion
 {
     public class PlayNamedChoreoCommand : APLCommand
     {

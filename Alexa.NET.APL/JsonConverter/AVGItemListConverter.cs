@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL.VectorGraphics;
+using VoicifyAlexa.NET.APL.VectorGraphics;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class AVGItemListConverter:SingleOrListConverter<IAVGItem>
     {

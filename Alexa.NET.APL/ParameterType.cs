@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Response.APL
+﻿namespace VoicifyAlexa.NET.Response.APL
 {
     public enum ParameterType
     {

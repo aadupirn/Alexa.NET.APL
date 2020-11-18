@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL.Operation;
-using Alexa.NET.Response.Converters;
+using VoicifyAlexa.NET.APL.Operation;
+using VoicifyAlexa.NET.Response.Converters;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class UpdateIndexListDataDirective:IDirective
     {

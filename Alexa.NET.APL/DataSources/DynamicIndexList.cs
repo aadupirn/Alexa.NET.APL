@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.DataSources
+namespace VoicifyAlexa.NET.APL.DataSources
 {
     public class DynamicIndexList: APLDataSource
     {

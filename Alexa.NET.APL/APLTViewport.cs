@@ -1,8 +1,8 @@
-﻿using Alexa.NET.Response.APL;
+﻿using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLTViewport : Viewport
     {

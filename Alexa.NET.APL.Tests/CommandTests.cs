@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
-using Alexa.NET.APL.Commands;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.Commands;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.APL.Tests
+namespace VoicifyAlexa.NET.APL.Tests
 {
     public class CommandTests
     {

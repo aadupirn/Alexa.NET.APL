@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using Alexa.NET.APL.Filters;
+using VoicifyAlexa.NET.APL.Filters;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class ImageFilterConverter : Newtonsoft.Json.JsonConverter
     {

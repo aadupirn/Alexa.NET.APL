@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public enum ViewportTheme
     {

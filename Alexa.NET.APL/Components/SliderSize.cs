@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.APL.Components
+namespace VoicifyAlexa.NET.APL.Components
 {
     public enum SliderSize
     {

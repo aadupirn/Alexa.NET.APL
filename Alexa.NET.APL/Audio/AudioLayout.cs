@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Alexa.NET.APL.JsonConverter;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Audio
+namespace VoicifyAlexa.NET.APL.Audio
 {
     public class AudioLayout
     {

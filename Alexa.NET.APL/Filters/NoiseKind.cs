@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.APL.Filters
+namespace VoicifyAlexa.NET.APL.Filters
 {
     public enum NoiseKind
     {

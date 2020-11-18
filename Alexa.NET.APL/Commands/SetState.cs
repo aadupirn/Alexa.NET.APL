@@ -1,8 +1,8 @@
 ﻿using System;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Commands
+namespace VoicifyAlexa.NET.APL.Commands
 {
     [Obsolete("This command is deprecated, and no longer the correct way to change state")]
     public class SetState:APLCommand

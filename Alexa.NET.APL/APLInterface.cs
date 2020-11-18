@@ -4,7 +4,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public static class APLInterface
     {

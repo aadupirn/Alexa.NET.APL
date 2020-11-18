@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.APL.DataSources
+namespace VoicifyAlexa.NET.APL.DataSources
 {
 
     public class ObjectDataSource:APLDataSource

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL.Components;
-using Alexa.NET.APL.JsonConverter;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.Components;
+using VoicifyAlexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Components
+namespace VoicifyAlexa.NET.APL.Components
 {
     public class AlexaHeader:APLComponent
     {

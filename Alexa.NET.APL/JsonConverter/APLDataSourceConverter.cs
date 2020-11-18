@@ -2,12 +2,12 @@
 using System.ComponentModel;
 using System.Linq;
 using System.Reflection;
-using Alexa.NET.APL.DataSources;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.APL.DataSources;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class APLDataSourceConverter : Newtonsoft.Json.JsonConverter
     {

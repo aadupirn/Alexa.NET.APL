@@ -1,9 +1,9 @@
 ﻿using System;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.APL.JsonConverter
+namespace VoicifyAlexa.NET.APL.JsonConverter
 {
     public class DocumentBackgroundColorConverter:JsonConverter<DocumentBackgroundColor>
     {

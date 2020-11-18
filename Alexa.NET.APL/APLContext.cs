@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Request;
+﻿using VoicifyAlexa.NET.Request;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public class APLContext:Context
     {

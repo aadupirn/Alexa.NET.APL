@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Components
+namespace VoicifyAlexa.NET.APL.Components
 {
     public class AlexaLists : AlexaImageListBase
     {

@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL.Components;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.Components;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.APL.Commands
+namespace VoicifyAlexa.NET.APL.Commands
 {
     public class ControlMedia:APLCommand
     {

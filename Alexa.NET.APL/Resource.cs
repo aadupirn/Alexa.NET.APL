@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL;
+using VoicifyAlexa.NET.APL;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Response.APL
+namespace VoicifyAlexa.NET.Response.APL
 {
     public class Resource
     {

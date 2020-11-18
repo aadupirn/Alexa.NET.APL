@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Request;
-using Alexa.NET.Response;
+﻿using VoicifyAlexa.NET.Request;
+using VoicifyAlexa.NET.Response;
 
-namespace Alexa.NET.APL
+namespace VoicifyAlexa.NET.APL
 {
     public static class APLSupport
     {

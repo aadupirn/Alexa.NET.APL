@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Text;
-using Alexa.NET.APL.Components;
+using VoicifyAlexa.NET.APL.Components;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.DataSources
+namespace VoicifyAlexa.NET.APL.DataSources
 {
     public class ListDataSource : APLDataSource
     {

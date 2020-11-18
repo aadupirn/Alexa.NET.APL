@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.APL.JsonConverter;
+using VoicifyAlexa.NET.APL.JsonConverter;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.Gestures
+namespace VoicifyAlexa.NET.APL.Gestures
 {
     public class LongPress : APLGesture
     {

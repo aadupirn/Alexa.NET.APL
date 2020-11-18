@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.Response.APL;
+using VoicifyAlexa.NET.Response.APL;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.APL.VectorGraphics
+namespace VoicifyAlexa.NET.APL.VectorGraphics
 {
     public class AVGResource : Resource
     {

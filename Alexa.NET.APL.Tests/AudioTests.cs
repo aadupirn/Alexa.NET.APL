@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.APL.Audio;
-using Alexa.NET.Response;
+using VoicifyAlexa.NET.APL.Audio;
+using VoicifyAlexa.NET.Response;
 using Xunit;
 
-namespace Alexa.NET.APL.Tests
+namespace VoicifyAlexa.NET.APL.Tests
 {
     public class AudioTests
     {
